@@ -1,0 +1,12 @@
+body{
+ 
+      background-image: linear-gradient(pink,blue,green);
+}
+img{
+  
+    width: 25%;
+    height: 50%;
+}
+p{
+    font-size: 25px;
+}
